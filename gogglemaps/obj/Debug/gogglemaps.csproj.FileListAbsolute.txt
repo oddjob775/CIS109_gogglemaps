@@ -1,0 +1,10 @@
+C:\Users\Troy\Documents\Coding\C#\Udemy\gogglemaps\bin\Debug\gogglemaps.exe.config
+C:\Users\Troy\Documents\Coding\C#\Udemy\gogglemaps\bin\Debug\gogglemaps.exe
+C:\Users\Troy\Documents\Coding\C#\Udemy\gogglemaps\bin\Debug\gogglemaps.pdb
+C:\Users\Troy\Documents\Coding\C#\Udemy\gogglemaps\obj\Debug\gogglemaps.csprojAssemblyReference.cache
+C:\Users\Troy\Documents\Coding\C#\Udemy\gogglemaps\obj\Debug\gogglemaps.frm.resources
+C:\Users\Troy\Documents\Coding\C#\Udemy\gogglemaps\obj\Debug\gogglemaps.Properties.Resources.resources
+C:\Users\Troy\Documents\Coding\C#\Udemy\gogglemaps\obj\Debug\gogglemaps.csproj.GenerateResource.cache
+C:\Users\Troy\Documents\Coding\C#\Udemy\gogglemaps\obj\Debug\gogglemaps.csproj.CoreCompileInputs.cache
+C:\Users\Troy\Documents\Coding\C#\Udemy\gogglemaps\obj\Debug\gogglemaps.exe
+C:\Users\Troy\Documents\Coding\C#\Udemy\gogglemaps\obj\Debug\gogglemaps.pdb
